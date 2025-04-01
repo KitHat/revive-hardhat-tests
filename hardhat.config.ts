@@ -62,7 +62,7 @@ require('@nomicfoundation/hardhat-chai-matchers');
 require('@nomicfoundation/hardhat-ethers');
 require('hardhat-exposed');
 require('hardhat-gas-reporter');
-// require('hardhat-ignore-warnings');
+require('hardhat-ignore-warnings');
 require('solidity-coverage');
 require('solidity-docgen');
 

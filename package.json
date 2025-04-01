@@ -14,6 +14,7 @@
     "ethers": "^6.13.5",
     "hardhat": "^2.22.19",
     "hardhat-exposed": "^0.3.18",
+    "hardhat-ignore-warnings": "^0.2.12",
     "hardhat-resolc": "^0.0.7",
     "hardhat-revive-node": "^0.0.6",
     "mocha": "^11.1.0",
